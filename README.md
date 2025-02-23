@@ -82,8 +82,11 @@
 
 ###
 
+<!-- Turn on Snake Animation from Here-->
+<!--
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SaifMahmud366/SaifMahmud366/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
